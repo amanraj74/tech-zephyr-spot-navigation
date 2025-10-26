@@ -7,9 +7,9 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Competition](https://img.shields.io/badge/Competition-IIT_Bhubaneswar-red?style=for-the-badge)](https://www.iitbbs.ac.in/)
 
-**🏆 Competition Winner | Team DeepLearners**  
+** SOLO PARTICIPATE | Team DeepLearners**  
 *IIT Bhubaneswar Tech Zephyr 3.0 Competition*  
-*October 26-27, 2025*
+*October 25-26, 2025*
 
 ### An award-winning autonomous navigation system for Boston Dynamics Spot robot featuring intelligent waypoint navigation, real-time obstacle avoidance, and zero-collision guarantee.
 
@@ -1479,7 +1479,7 @@ When deploying:
 
 [![GitHub](https://img.shields.io/badge/GitHub-amanraj74-black?style=for-the-badge&logo=github)](https://github.com/amanraj74)
 [![Email](https://img.shields.io/badge/Email-aerraj50%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aerraj50@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amanraj74)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-jaiswal-05b962212/)
 
 ---
 
