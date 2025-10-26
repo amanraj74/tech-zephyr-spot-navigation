@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>spot_navigation</name>
+  <version>1.0.0</version>
+  <description>Spot Sequential Navigation - Tech Zephyr 3.0</description>
+  <maintainer email="aerraj50@gmail.com">Aman Jaiswal</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>nav_msgs</depend>
+  <export><build_type>ament_python</build_type></export>
+</package>

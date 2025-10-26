@@ -1,0 +1,27 @@
+[0.661s] Invoking command in '/home/aman/tech_zephyr_final/build/spot_navigation': PYTHONPATH=/home/aman/tech_zephyr_final/build/spot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aman/tech_zephyr_final/install/spot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aman/tech_zephyr_final/build/spot_navigation/build --no-deps symlink_data
+[0.907s] running develop
+[1.080s] running egg_info
+[1.080s] creating spot_navigation.egg-info
+[1.081s] writing spot_navigation.egg-info/PKG-INFO
+[1.081s] writing dependency_links to spot_navigation.egg-info/dependency_links.txt
+[1.081s] writing entry points to spot_navigation.egg-info/entry_points.txt
+[1.082s] writing requirements to spot_navigation.egg-info/requires.txt
+[1.082s] writing top-level names to spot_navigation.egg-info/top_level.txt
+[1.082s] writing manifest file 'spot_navigation.egg-info/SOURCES.txt'
+[1.083s] reading manifest file 'spot_navigation.egg-info/SOURCES.txt'
+[1.084s] writing manifest file 'spot_navigation.egg-info/SOURCES.txt'
+[1.085s] running build_ext
+[1.085s] Creating /home/aman/tech_zephyr_final/install/spot_navigation/lib/python3.10/site-packages/spot-navigation.egg-link (link to .)
+[1.086s] Installing spot_navigator script to /home/aman/tech_zephyr_final/install/spot_navigation/lib/spot_navigation
+[1.087s] 
+[1.087s] Installed /home/aman/tech_zephyr_final/build/spot_navigation
+[1.087s] running symlink_data
+[1.087s] creating /home/aman/tech_zephyr_final/install/spot_navigation/share/ament_index
+[1.087s] creating /home/aman/tech_zephyr_final/install/spot_navigation/share/ament_index/resource_index
+[1.087s] creating /home/aman/tech_zephyr_final/install/spot_navigation/share/ament_index/resource_index/packages
+[1.088s] symbolically linking /home/aman/tech_zephyr_final/build/spot_navigation/resource/spot_navigation -> /home/aman/tech_zephyr_final/install/spot_navigation/share/ament_index/resource_index/packages
+[1.088s] symbolically linking /home/aman/tech_zephyr_final/build/spot_navigation/package.xml -> /home/aman/tech_zephyr_final/install/spot_navigation/share/spot_navigation
+[1.088s] creating /home/aman/tech_zephyr_final/install/spot_navigation/share/spot_navigation/worlds
+[1.088s] symbolically linking /home/aman/tech_zephyr_final/build/spot_navigation/worlds/hackathon_backup.sdf -> /home/aman/tech_zephyr_final/install/spot_navigation/share/spot_navigation/worlds
+[1.089s] symbolically linking /home/aman/tech_zephyr_final/build/spot_navigation/worlds/empty_room-2.sdf -> /home/aman/tech_zephyr_final/install/spot_navigation/share/spot_navigation/worlds
+[1.113s] Invoked command in '/home/aman/tech_zephyr_final/build/spot_navigation' returned '0': PYTHONPATH=/home/aman/tech_zephyr_final/build/spot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aman/tech_zephyr_final/install/spot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aman/tech_zephyr_final/build/spot_navigation/build --no-deps symlink_data

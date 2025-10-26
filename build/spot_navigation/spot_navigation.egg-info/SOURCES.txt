@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+resource/spot_navigation
+spot_navigation/__init__.py
+spot_navigation/spot_sequential_navigator.py
+spot_navigation.egg-info/PKG-INFO
+spot_navigation.egg-info/SOURCES.txt
+spot_navigation.egg-info/dependency_links.txt
+spot_navigation.egg-info/entry_points.txt
+spot_navigation.egg-info/requires.txt
+spot_navigation.egg-info/top_level.txt
+spot_navigation.egg-info/zip-safe
+worlds/empty_room-2.sdf
+worlds/hackathon_backup.sdf

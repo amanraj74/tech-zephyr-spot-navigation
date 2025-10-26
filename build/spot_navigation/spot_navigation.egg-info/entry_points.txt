@@ -1,0 +1,3 @@
+[console_scripts]
+spot_navigator = spot_navigation.spot_sequential_navigator:main
+

@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating spot_navigation.egg-info
+writing spot_navigation.egg-info/PKG-INFO
+writing dependency_links to spot_navigation.egg-info/dependency_links.txt
+writing entry points to spot_navigation.egg-info/entry_points.txt
+writing requirements to spot_navigation.egg-info/requires.txt
+writing top-level names to spot_navigation.egg-info/top_level.txt
+writing manifest file 'spot_navigation.egg-info/SOURCES.txt'
+reading manifest file 'spot_navigation.egg-info/SOURCES.txt'
+writing manifest file 'spot_navigation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/aman/tech_zephyr_final/install/spot_navigation/lib/python3.10/site-packages/spot-navigation.egg-link (link to .)
+Installing spot_navigator script to /home/aman/tech_zephyr_final/install/spot_navigation/lib/spot_navigation
+
+Installed /home/aman/tech_zephyr_final/build/spot_navigation
+running symlink_data
+creating /home/aman/tech_zephyr_final/install/spot_navigation/share/ament_index
+creating /home/aman/tech_zephyr_final/install/spot_navigation/share/ament_index/resource_index
+creating /home/aman/tech_zephyr_final/install/spot_navigation/share/ament_index/resource_index/packages
+symbolically linking /home/aman/tech_zephyr_final/build/spot_navigation/resource/spot_navigation -> /home/aman/tech_zephyr_final/install/spot_navigation/share/ament_index/resource_index/packages
+symbolically linking /home/aman/tech_zephyr_final/build/spot_navigation/package.xml -> /home/aman/tech_zephyr_final/install/spot_navigation/share/spot_navigation
+creating /home/aman/tech_zephyr_final/install/spot_navigation/share/spot_navigation/worlds
+symbolically linking /home/aman/tech_zephyr_final/build/spot_navigation/worlds/hackathon_backup.sdf -> /home/aman/tech_zephyr_final/install/spot_navigation/share/spot_navigation/worlds
+symbolically linking /home/aman/tech_zephyr_final/build/spot_navigation/worlds/empty_room-2.sdf -> /home/aman/tech_zephyr_final/install/spot_navigation/share/spot_navigation/worlds
